@@ -92,11 +92,11 @@ _There is a dependency to "US003 - View posts and their data" since a post must 
 ## 1. Score value changes
   - [SD](../03.sequence-diagram/us007_upvote_already_upvoted.png)
 
-  - [Solution](../../../../sprintC/images/noFix3.png)
+  - [Solution](../../../sprintC/images/noFix3.png)
     ### 1.1 Clues
 
-  - [Clue 1](../../../../../src/modules/forum/domain/post.ts#L241)
+  - [Clue 1](../../../../src/modules/forum/domain/post.ts#L241)
 
-  - [Clue 2](../../../../sprintC/images/initialVoteHappens.png)
+  - [Clue 2](../../../sprintC/images/initialVoteHappens.png)
 
-  - ["Fita cola preta" Solution](../../../../sprintC/images/upvote_aFix.png)
+  - ["Fita cola preta" Solution](../../../sprintC/images/upvote_aFix.png)

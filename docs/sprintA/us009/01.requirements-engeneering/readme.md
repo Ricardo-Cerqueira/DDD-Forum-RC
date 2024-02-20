@@ -90,15 +90,15 @@ We created a comprehensive sequence diagram that demonstrates how the sort by re
 
 #### First Aproach:
 
-![First Aproach:](../../../../sprintC/images/firstAproach.png)
+![First Aproach:](/docs/sprintC/images/firstAproach.png)
 
 #### Final Solution:
 
-![Final solution:](../../../../sprintC/images/recentFix.png)
+![Final solution:](/docs/sprintC/images/recentFix.png)
 
 ### Commit of the Solution:
 
-![Commit of the Solution:](../../../../sprintC/images/commitRecentFix.png)
+![Commit of the Solution:](/docs/sprintC/images/commitRecentFix.png)
 
 ## 2.4 Tests
 
@@ -108,12 +108,12 @@ After fixing the bug, we needed to update the previously written texts that were
 
 #### Test Sort Posts By New Fail:
 
-![Test suite before fix - Fail:](../../../../sprintC/images/testSuitFail009.png)
+![Test suite before fix - Fail:](/docs/sprintC/images/testSuitFail009.png)
 
 #### Test Sort Posts By New:
 
-![Test suite before fix - Skip](../../../../sprintC/images/sortInSkip.png)
+![Test suite before fix - Skip](../../../sprintC/images/sortInSkip.png)
 
 #### Test suite after bug fix:
 
-![Test suite after Bug fix:](../../../../sprintC/images/sortFixed.png)
+![Test suite after Bug fix:](../../../sprintC/images/sortFixed.png)
